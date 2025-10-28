@@ -117,19 +117,19 @@ With the increasing reliance on digital payment systems like PhonePe, understand
 # 7. Power BI Dashboard Features
 ## Interactive Elements:
 
-**Dynamic Filters** : Year, Quarter, State, Transaction Type
-**Cross-Filtering** : Click on any visual to filter other visuals
-**Drill-Through** : Navigate from state to district to pin code level
-**Tooltips** : Hover over visuals for detailed information
+**Dynamic Filters** : Year, Quarter, State, Transaction Type.  
+**Cross-Filtering** : Click on any visual to filter other visuals.  
+**Drill-Through** : Navigate from state to district to pin code level.  
+**Tooltips** : Hover over visuals for detailed information.  
 
 ## Key Visualizations:
 
-* Geographical Maps (Shape Maps) for India
-* Time Series Analysis (Line Charts)
-* Comparative Analysis (Bar Charts)
-* Distribution Analysis (Pie Charts)
-* Detailed Tables with conditional formatting
-* KPI Cards for quick insights
+* Geographical Maps (Shape Maps) for India.  
+* Time Series Analysis (Line Charts).  
+* Comparative Analysis (Bar Charts).  
+* Distribution Analysis (Pie Charts).  
+* Detailed Tables with conditional formatting.  
+* KPI Cards for quick insights.  
 
 # 8.Best Practices Implemented:
 
@@ -142,14 +142,14 @@ With the increasing reliance on digital payment systems like PhonePe, understand
 
 # 9.Skills Demonstrated
 
-**Data Extraction** : Cloning and extracting data from GitHub repositories
-**ETL Pipeline** : Extract, Transform, Load processes
-**SQL Proficiency** : Database design, table creation, data insertion
-**Data Transformation** : JSON parsing, data cleaning, standardization
-**Data Visualization** : Power BI dashboard creation
-**Analytical Thinking** : Business case study analysis
-**Documentation** : Comprehensive project documentation
-**Problem Solving** : Handling complex nested data structures
+**Data Extraction** : Cloning and extracting data from GitHub repositories.  
+**ETL Pipeline** : Extract, Transform, Load processes.  
+**SQL Proficiency** : Database design, table creation, data insertion.  
+**Data Transformation** : JSON parsing, data cleaning, standardization.  
+**Data Visualization** : Power BI dashboard creation.  
+**Analytical Thinking** : Business case study analysis.  
+**Documentation** : Comprehensive project documentation.  
+**Problem Solving** : Handling complex nested data structures.  
 
 # References & Resources
 
