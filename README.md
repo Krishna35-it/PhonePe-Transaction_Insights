@@ -26,7 +26,7 @@ With the increasing reliance on digital payment systems like PhonePe, understand
 ## The project creates 9 structured tables in MySQL database:
 ### 1. Aggregated Tables
 
-`aggregated_transaction`: Aggregated transaction data by state, year, quarter, and transaction type
+`aggregated_transaction`: Aggregated transaction data by state, year, quarter, and transaction type.  
 `aggregated_user`: User engagement data aggregated by state, brand, and time period
 `aggregated_insurance`: Insurance transaction aggregates at state level
 
