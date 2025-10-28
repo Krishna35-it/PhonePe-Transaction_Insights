@@ -27,20 +27,20 @@ With the increasing reliance on digital payment systems like PhonePe, understand
 ### 1. Aggregated Tables
 
 `aggregated_transaction`: Aggregated transaction data by state, year, quarter, and transaction type.  
-`aggregated_user`: User engagement data aggregated by state, brand, and time period
-`aggregated_insurance`: Insurance transaction aggregates at state level
+`aggregated_user`: User engagement data aggregated by state, brand, and time period.  
+`aggregated_insurance`: Insurance transaction aggregates at state level.  
 
 ### 2. Map Tables
 
-`map_transaction (map_map)`: District-level transaction data with geographical mapping
-`map_user`: District-level user registration and app opens data
-`map_insurance`: District-level insurance transaction data
+`map_transaction (map_map)`: District-level transaction data with geographical mapping.  
+`map_user`: District-level user registration and app opens data.  
+`map_insurance`: District-level insurance transaction data.  
 
 ### 3. Top Tables
 
-`top_transaction (top_map)`: Top-performing districts and pin codes for transactions
-`top_user`: Top districts and pin codes based on registered users
-`top_insurance`: Top-performing areas for insurance transactions
+`top_transaction (top_map)`: Top-performing districts and pin codes for transactions.  
+`top_user`: Top districts and pin codes based on registered users.  
+`top_insurance`: Top-performing areas for insurance transactions.  
 
 # 5.Workflow
 ## STEP 1: Data Extraction
