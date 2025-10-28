@@ -153,16 +153,15 @@ With the increasing reliance on digital payment systems like PhonePe, understand
 
 # References & Resources
 
-PhonePe Pulse Data: [PhonePe Pulse GitHub](https://github.com/PhonePe/pulse)
-Official PhonePe Pulse Website: [https://www.phonepe.com/pulse/]
-Power BI Documentation: [Microsoft Power BI Docs](https://docs.microsoft.com/power-bi/)
-MySQL Documentation: [MySQL Official Docs](https://dev.mysql.com/doc/)
+PhonePe Pulse Data: [PhonePe Pulse GitHub](https://github.com/PhonePe/pulse)  
+Official PhonePe Pulse Website: https://www.phonepe.com/pulse/  
+Power BI Documentation: [Microsoft Power BI Docs](https://docs.microsoft.com/power-bi/)  
+MySQL Documentation: [MySQL Official Docs](https://dev.mysql.com/doc/)  
 
 # Author
+Krishna Raj S  
 
-Krishna Raj S
-
-GitHub: @Krishna35-it
+GitHub: @Krishna35-it  
 Project Repository: [PhonePe-Transaction_Insights](https://github.com/Krishna35-it/PhonePe-Transaction_Insights)
 
 # License
